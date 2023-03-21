@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "userName": "json-server",
+      "firsName": "Avshalom",
+      "lastName": "zarviv",
+      "email": "avshalomz1982@gmail.com",
+      "isLogged": false
+    }
+  ]
+}
